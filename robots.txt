@@ -7,4 +7,4 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
-Sitemap: https://devselcuk.github.io/idstudio/sitemap.xml
+Sitemap: https://devselcuk.github.io/sitemap.xml
